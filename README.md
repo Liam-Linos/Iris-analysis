@@ -44,15 +44,13 @@ The Iris dataset contains **150 samples** of iris flowers, with the following fe
    ```
 3. Run the cells to execute the analysis and visualize the data.
 
-## Findings
+Findings
 - **Setosa** has significantly smaller petal lengths and widths.
 - **Versicolor** has moderate petal sizes, while **Virginica** has the largest petals.
 - **Sepal length and petal length show a strong correlation**, which helps in classification.
 
-## Conclusion
+Conclusion
 This analysis provides insights into the **Iris dataset**, showcasing the differences between species using statistical and visual techniques. The notebook serves as an excellent introduction to **data analysis and visualization in Python**.
 
----
 
-Feel free to modify or expand the analysis! 🚀
 
